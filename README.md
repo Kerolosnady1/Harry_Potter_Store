@@ -13,7 +13,7 @@ This Web Store Is Just Project For ALXSE Course.
 List the key technologies or frameworks used in the project, like:
 
 - [CSS](https://www.w3.org/TR/CSS/#css/)
-- [HTML]([https://html.spec.whatwg.org/)
+- [HTML](https://html.spec.whatwg.org/)
 - [Github](https://www.github.io/)
 
 ## Getting Started
